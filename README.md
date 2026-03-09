@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=CC5500&vCenter=true&width=950&lines=Hi+I'm+Ardina+Shaifa+👋;Data+Enthusiast+📊;Passionate+about+Data+and+Insights+✨" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=CC5500&vCenter=true&width=1100&lines=👋+Hi+I'm+Ardina+Shaifa;📊+Data+Enthusiast;+Passionate+about+Data+and+Insights" />
 
 
 🎓 Data Science Student  
