@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Ardina+Shaifa+👋;Data+Science+Student;Aspiring+Data+Analyst;Passionate+about+Data+and+Insights" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Ardina+Shaifa+👋;Data+Science+Student;Passionate+about+Data+and+Insights" />
 
 🎓 Data Science Student  
 📊 Interested in Data Analysis, Data Engineering, Machine Learning and Artificial Intelligence 
@@ -14,12 +14,6 @@
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Ardina's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
