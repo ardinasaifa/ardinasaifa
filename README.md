@@ -1,12 +1,21 @@
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=CC5500&vCenter=true&width=1100&lines=👋+Hi+I'm+Ardina+Shaifa;📊+Data+Enthusiast;+Passionate+about+Data+and+Insights" />
+</p>
 
+<table>
+<tr>
+<td width="45%">
+
+### 🎓 About Me
 
 🎓 Data Science Student  
 📊 Interested in **Data Analysis, Data Engineering, Machine Learning, and Artificial Intelligence**
 
----
+</td>
 
-## 🧰 Tech Stack
+<td width="55%">
+
+### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -18,6 +27,10 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
